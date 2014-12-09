@@ -1,0 +1,888 @@
+Skills,Count
+0,0
+.net,4
+3d graphics,1
+access,2
+actionscript,3
+adobe creative suite,1
+aerospace engineering,1
+agda,1
+agile,3
+agile development,1
+ajax,2
+akka,2
+algorithm design and implementation,1
+algorithmic theory,1
+algorithms,20
+algorithms and data structures,1
+ampq,1
+analysis,12
+analytic modeling,1
+analytics,4
+and circuit design,1
+android,19
+android development,1
+angular,21
+angular.js,1
+angularjs,10
+animation,2
+ansible,2
+apache spark,1
+api design,1
+apis,3
+app development,1
+app stores,1
+applescript,2
+application security frameworks,1
+arc,17
+arcgis,1
+arch,11
+arch linux,1
+architecture,6
+arduino,11
+arm,2
+art,2
+art classification,1
+artificial intelligence,4
+asm,2
+assembly,4
+asterisk,1
+asts,1
+audio,6
+audio editing,1
+audio engineering,1
+augmented reality,1
+autocad,1
+autodidact,1
+automata theory,1
+automated testing,1
+automation,2
+awk,4
+aws,16
+aws deployment,1
+backbone-relational,1
+backbone.js,19
+backend,2
+bash,22
+basic,9
+beaglebone,1
+beards,1
+behavior design,1
+big data,3
+biking,5
+binary classification,1
+bioinformatics,2
+biology,4
+biostatistics,1
+birding,1
+bittorrent,3
+blockchain,1
+bloomberg api,1
+bootstrap,3
+bottle framework,1
+bouldering,1
+boundary element modeling,1
+bsd,3
+business resilience,1
+bytecode,1
+bzr,1
+c,101
+c#,17
+c++,57
+camping,1
+canvas,5
+capability security,1
+capital markets,1
+cars,1
+cassandra,1
+cat-petting,1
+category theory,2
+cats,1
+celery,1
+cfa,1
+chef,4
+chemistry,2
+chinese,1
+chuck,2
+ci,43
+cinder,1
+cl,1
+climbing,4
+clojure,68
+clojurescript,11
+cloud computing,2
+cloudfoundry,1
+clustering,1
+cocoa,3
+cocos2d,1
+code para-trooping,1
+code quality,1
+code review,1
+codeigniter,1
+coffee,19
+coffeescript,21
+comedy,1
+command line,1
+common lisp,5
+compass,1
+compiler,11
+compiler design,1
+compilers,9
+component based engines,1
+component models,1
+computational genomics,1
+computational geometry,1
+computational linguistics,2
+computer architecture,1
+computer crime investigation,1
+computer graphics,1
+computer networking,2
+computer science,2
+computer science education,1
+computer science theory,1
+computer security,1
+computer vision,6
+concurrency,4
+concurrent,2
+concurrent haskell,1
+consensus,1
+conversing,1
+cooking,1
+coq,1
+cordova,1
+core,3
+cosmosworks,1
+couchdb,2
+coursera course,1
+cows,1
+crashing irc bots,1
+creative coding,1
+creative reuse,1
+creative thinking,1
+credit cards,1
+crossfit,1
+cryptography,3
+cs,1
+cs theory,2
+csound,1
+css,59
+css3,4
+ctypes,1
+cucumber,1
+cuda,1
+curve building,1
+cvs,1
+cycling,3
+cython,1
+d,1
+d3,19
+d3.js,5
+d3js,1
+dairy,1
+darcs,3
+data,2
+data analysis,4
+data analysis/visualization,1
+data handling,2
+data handling and analysis,1
+data management,1
+data mining,5
+data modeling,1
+data munging,1
+data science,10
+data structures,5
+data visualization,6
+data viz,1
+database,8
+database architecture,1
+database design,1
+databases,5
+datamapper,1
+dc.js,1
+debian,3
+debt valuation,1
+debugging,3
+debugging anything,1
+dec assemblers,1
+decision science,1
+deep learning,1
+deployment,3
+derivative,4
+derivative pricing,1
+derivatives,3
+derivatives risk management,1
+design,40
+design of experiments,1
+design work,1
+designing and implementing algorithms,1
+devops,4
+digital,2
+digital audio,1
+digital fabrication,1
+disco,1
+distributed,13
+distributed computing,1
+distributed system,12
+distributed systems,11
+distributed systems architecture,1
+diy culture,1
+django,28
+dns,1
+docker,1
+documentation,1
+dojo,1
+drifting,1
+driving,1
+drumming,1
+drupal,4
+dsp,1
+dvcs,1
+dynamic analytics,1
+dynamic web,1
+dynamodb,1
+ebay,1
+ec2,3
+eclipse,2
+econometrics,2
+editing,4
+editing code,1
+education,2
+elasticsearch,1
+elixir,4
+elm,5
+emacs,12
+emacs lisp,2
+embedded,3
+embedded systems,2
+ember,5
+ember.js,2
+emberjs,2
+engineering management,1
+english,3
+enormous codebases,1
+equity,1
+erb,1
+erlang,12
+erlang m,1
+espresso,1
+etc,5
+etcd,1
+ethical hacking,1
+event-driven systems,1
+eventmachine,2
+excel,3
+experimental analysis,1
+express,9
+ext,3
+f#,2
+facebook,1
+factor,2
+fault-tolerance,1
+finance,3
+financial derivatives,1
+financial modelling,1
+finite element modeling,1
+fixed income trading,1
+flame effects,1
+flask,24
+flora,1
+fluentd,1
+food,1
+forex trading,1
+formal logic,1
+forth,1
+fortran,5
+fp,2
+fpga,1
+framer.js,1
+freebsd,2
+french,4
+frisbee,2
+front end,12
+front end development,3
+front-end programming,1
+frontend webdev,1
+full stack,3
+full-stack web development,1
+functional,25
+functional languages,2
+functional programming,21
+functional reactive programming,1
+gae,1
+game,16
+game design,4
+game dev,3
+game development,2
+game programming,1
+games,7
+gawk,1
+generative testing,1
+genetic,1
+genomics,3
+german,1
+ghc,1
+gis,11
+git,189
+github,1
+glsl,2
+gnome,1
+gnu,4
+gnuplot,1
+go,19
+goji,1
+golang,3
+goliath,1
+google,8
+google analytics,1
+google app engine,4
+google drive,1
+google maps,1
+government data,1
+gpu computing,1
+graph,17
+graph theory,3
+graphic,10
+graphic design,1
+graphics,9
+graphics programming,1
+graphics theory,1
+graphite,1
+grunt,1
+gsoc,1
+gtfs,1
+gui,5
+gwt,1
+hackerspaces,1
+hacking,4
+hadoop,6
+hadoop(emr),1
+haiku,1
+hailing the glow cloud,1
+haml,4
+hardware,8
+hardware design,1
+hardware prototyping,1
+hardware.,1
+haskell,35
+hci,1
+heroku,12
+hft,1
+hg,3
+high-speed trading controls,1
+hive,1
+home automation,1
+homebrew,1
+hpc,1
+html,76
+http,4
+human,2
+human language processing,1
+human memory,1
+hunch,1
+hypertext,1
+ibid,1
+icelandic,1
+iis,1
+illustration,1
+illustrator,3
+image,6
+image editing,1
+image processing,5
+image processing and analysis,1
+immutable data,1
+implementation,2
+indesign,1
+information,5
+information architecture,1
+information retrieval,3
+information security,1
+infosec,1
+installation design,1
+interaction design,2
+interactive theorem proving,1
+interpreters,4
+io,1
+ios,24
+ios development,1
+ip,1
+iphone,2
+ipoac,1
+ipython,3
+ir,1
+irc,3
+j2ee,1
+java,106
+java (ee/se/me),1
+java ee,1
+java profiling,1
+javascript,238
+jekyll,2
+jinja,2
+jmvc,1
+joblib,1
+jogging,1
+jquery,28
+js,7
+json,1
+julia,19
+jvm tuning,1
+kefir,1
+kinect,1
+kiteboarding,1
+kitten,4
+kitten robots,1
+kittens,3
+kittins,0
+lamp,1
+languages,12
+laravel,1
+latex,10
+latin,1
+lattice theory,1
+leaflet,2
+learning,1
+learning languages,1
+lego,1
+less,2
+lexers,1
+lexical analysis,1
+lexing,1
+libreoffice,1
+linear,6
+linear algebra,4
+linear programming,1
+linear regressions,1
+linguistic,4
+linguistics,4
+linux,40
+linux kernel,1
+linux systems,1
+lisp,22
+livecode,1
+logic,5
+logical relations,1
+logistics optimization schemes,1
+londboarding,1
+low latency,1
+lua,5
+ludonarrative,1
+m/monit,1
+m2m,1
+mac,1
+mac os x,1
+mac repair,1
+machine learning,55
+macos,1
+macros,1
+management,10
+managing web products,1
+mapReduce,2
+mapbox,1
+mapping,4
+mapping tools,1
+mapping visualizations,1
+maps,3
+marathon running,1
+marionette,2
+marketing,1
+math,27
+mathematica,6
+mathematical programming,1
+mathematics,5
+matlab,18
+matplotlib,1
+mechanized metatheory,1
+meditation,1
+memcache,1
+mercurial,4
+mesh networking,1
+metaheuristic algorithms,1
+metaprogramming,1
+meteor,5
+microsoft office,1
+microsoft sql server,1
+midi,1
+milk,1
+minikanren,1
+mixpanel,1
+ml,5
+mobile,5
+mobile web,2
+mocha,3
+molecular simulation,1
+mongo,30
+mongodb,24
+monit,4
+monitoring,2
+monte carlo,1
+motorcycling,1
+mrjob,1
+multi-threading,1
+multiplayer games,1
+music,7
+music analysis,1
+music theory,2
+music theory.,1
+mvc,2
+mysql,23
+nastran,1
+natural language processing,8
+natural language toolkit,1
+nbc,1
+ndb,2
+nethack,1
+network,23
+network design,1
+network programming,1
+network security,1
+networking,15
+networking in python,1
+networks,5
+neural networks,1
+neurolinguistics,1
+neuroscience,2
+nginx,1
+nlp,6
+nltk,3
+nmap,1
+node.js,67
+nosql,5
+nosql(riak,1
+numerical computing,1
+numerical libraries,1
+numpy,7
+nx,2
+nyc,1
+oauth2,2
+object-orientated programming,1
+objective c,30
+ocaml,10
+octave,3
+octopress,2
+ooo,1
+open,15
+open gl,1
+open source,2
+opencv,1
+openframeworks,2
+opengl,7
+openstack,1
+operating systems,3
+operations,1
+ops work,1
+opw,1
+oracle,2
+orchestration,1
+orms,2
+os x,3
+other libraries,1
+owin,1
+p2p,2
+p5,1
+pair programming,1
+pandas,5
+parallel,3
+parallel programming,1
+parallelism,1
+parametricity,1
+parsers,2
+parsing,3
+payment,2
+payments,1
+peer to peer systems,1
+peg parsers,1
+performance,2
+performance optimization,1
+perl,11
+phonegap,1
+phonetics,1
+photography,1
+photoshop,6
+photoshop cs5,1
+php,44
+physical computing,1
+physics,8
+piano,1
+piet,1
+pig,2
+pizza,2
+pl,20
+platform,2
+platforms,1
+play,3
+play framework,1
+poker,1
+posix,1
+postgis,1
+postgres,17
+postgresql,7
+postresql,1
+postscript,1
+processing,25
+product design,1
+product management,3
+programming,43
+programming language design,1
+programming languages,5
+prolog,5
+protocols,2
+public speaking,1
+puppet,1
+pure data,1
+pydata libraries,1
+pygame,1
+pytest,2
+python,286
+python 3,1
+python internals,1
+python3,1
+qa,2
+qgis,1
+qt,4
+qt creator,1
+quant,1
+quant finance,1
+qunit,2
+r,21
+r studio,1
+racket,7
+rails,42
+rails shop,1
+rapidminer,1
+raspberry pi,2
+raspeberry pi,1
+react,11
+react.js,1
+reactjs,2
+recommender systems,2
+recursion,1
+redex,1
+redis,7
+refactoring,1
+regex,4
+regression,2
+regular expressions,1
+relational,3
+relational programming,1
+relational theory,1
+rendering,1
+require.js,1
+requirements,1
+responsive design,1
+resque,1
+rest,4
+reverse engineering,1
+reversing,1
+rhino,2
+rhino3d,1
+ring,21
+risk management,3
+road trips,1
+robot,7
+robot kittens,1
+robotc,1
+robotics,2
+robots,3
+rock climbing,2
+ror,1
+ros,8
+rspec,4
+ruby,93
+ruby on rails,51
+running,5
+russian,2
+rust,6
+sailing,1
+san francisco,1
+sas,16
+sass,14
+scala,34
+scalability,2
+scalding,1
+scaling,1
+scheme,27
+sci-kit,1
+sci-kit learn,1
+science,16
+scientific,2
+scientific libraries,0
+scientific programming,1
+scipy,7
+scraping,3
+scripting,2
+scripting languages,1
+scss,4
+search,3
+security,12
+sed,3
+sega,1
+semantics,1
+semantics of programming languages,1
+servers,1
+shell,3
+shell script,2
+shell scripts,1
+sicp,1
+signal processing,4
+signalr,1
+silverlight,1
+simulation,2
+sinatra,14
+sinatra framework,1
+skating,1
+sketch,2
+sketchup,1
+sklearn,1
+smalltalk,3
+sml,2
+soccer,1
+socket.io,3
+sockets,7
+software testing,1
+software transactional memory,1
+software verification,1
+solaris,1
+soldering,3
+solidworks,1
+sound,4
+sound synthesis,2
+spanish,1
+spring,2
+sql,44
+sql databases,1
+sql server,2
+sqlalchemy,3
+sqlite,5
+ssl,1
+stand-up comedy,1
+standard ml,2
+starcrafts,1
+startups,1
+stata,5
+static analysis,1
+static types,2
+statistical natural language processing,1
+statistical physics,1
+statistics,26
+stochastic methods,1
+string algorithms,1
+struts2,1
+stylus,1
+sublime,2
+subversion,2
+supercomputing,1
+svg,2
+svn,5
+swift,8
+sybase adapative server enterprise,1
+symfony2,1
+sysadmin,2
+system administration,4
+systems,29
+systems administration,1
+systems architecture,2
+systen,0
+t-sql,2
+tcl,1
+tcp,3
+tcp/ip,1
+tdd,6
+teaching,7
+teaching css,1
+technical writing,2
+test driven development.,1
+test-driven development,3
+testing,9
+text processing,1
+thinking,2
+threading,3
+threads,1
+threat modeling,1
+three.js,1
+tmux,2
+tornado server,1
+tracing,1
+trading,4
+transcad,1
+transportation,1
+trees,1
+twelf,1
+twemproxy,1
+twisted,4
+type,11
+type checking,1
+type inference,1
+type theory,3
+types,6
+typescript,2
+typing,2
+ubuntu,2
+udp,1
+ui,28
+ui design,1
+ultimate,2
+ultimate frisbee,1
+underscore.js,1
+unicode,1
+unikernels,1
+unity,2
+unity 3d,1
+unix,13
+unix core,1
+unix system administration,1
+user experience,1
+user testing,1
+ux,7
+ux design,1
+ux on balsamiq,1
+vagrant,2
+vba,5
+vcs,1
+verilog,1
+video games,1
+vim,23
+vinyasa yoga,1
+virtual machines,2
+vision,7
+visual basic,1
+visualization,10
+voip,2
+walking,1
+wandering,1
+wearable electronics,1
+web,41
+web apis,1
+web applications,1
+web design,2
+web development,11
+web frameworks,1
+web programming,2
+web project management,1
+web scraping,0
+web spidering,1
+webapp2,1
+webdev,4
+webgl,1
+webrtc,1
+websites,1
+websocket,5
+websockets,4
+weka user,1
+whistling,1
+wikipedia api,1
+window manager,1
+windows,3
+wireframing,1
+wordpress,7
+writing,6
+x,1
+x86,3
+x86-32b assembly,1
+xbox,1
+xcode,2
+xll,1
+xmpp,1
+yaks,1
+yii,1
+yoga,2
+yogurt,1
