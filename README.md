@@ -11,4 +11,4 @@ Identifying which skills appear as substrings of other skills is only done for s
 
 The program takes care of a few typos but not all.
 
-Attached is a file created by R showing the distribution of the skills mentioned at least 80 times by hacker schoolers from the beginning of hacker school to the batch of Winter 1 2014.
+SkillsLargerThan80.pdf is a file created by R showing the distribution of the skills mentioned at least 80 times by hacker schoolers from the beginning of hacker school to the batch of Winter 1 2014.
